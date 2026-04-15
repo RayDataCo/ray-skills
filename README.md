@@ -20,8 +20,12 @@ Each skill's README has its own cron examples. General pattern: start with `/loo
 
 ## Skills in this repo
 
+Two operational skills (process-newsletter, morning-prep) and two meta-skills (improve, self-review) that compound the usefulness of the agent over time.
+
 - **[process-newsletter](./skills/process-newsletter/)** — ingest email newsletters from whitelisted senders, extract/assess/file with bias and sponsor flagging
 - **[morning-prep](./skills/morning-prep/)** — calendar-aware daily briefing; surfaces prep materials for upcoming meetings and pending homework items
+- **[improve](./skills/improve/)** — self-rewriting skill flywheel based on Garry Tan's *"thin harness, fat skills"* — reads feedback, diarizes mediocre outcomes, proposes concrete rewrites
+- **[self-review](./skills/self-review/)** — rubric-scored quality gate on the agent's own outputs; surfaces drift before it compounds
 
 More skills may be added as they prove stable and transferable.
 
