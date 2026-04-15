@@ -29,6 +29,10 @@ Two operational skills (process-newsletter, morning-prep) and two meta-skills (i
 
 More skills may be added as they prove stable and transferable.
 
+## See also
+
+- [bwilson668/snowflake-intelligence-demo](https://github.com/bwilson668/snowflake-intelligence-demo) — working Snowflake Cortex + Cortex Analyst + semantic views demo, orchestrated through Claude Code skills, applied to SEC EDGAR data ingestion. A concrete example of the skill-first methodology applied to a specific domain stack.
+
 ## License
 
 MIT — see [LICENSE](./LICENSE).
